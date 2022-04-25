@@ -1,0 +1,20 @@
+{
+    "name": "dolphin/magento2-module-SpecificProductIndexing",
+    "description": "Reindexing Specific Products",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+      "php": "~7.2.0||~7.4.3"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Dolphin\\SpecificProductIndexing\\": ""
+        }
+    }
+}
