@@ -1,3 +1,16 @@
+## Installation
+```base
+composer require mayankdolphin/magento2-module-specificproductindexing
+```
+
+```base
+bin/magento module:enable Dolphin_SpecificProductIndexing
+```
+
+```base
+bin/magento setup:upgrade
+```
+
 ## How to use this Module? 
 
 We've created a new command `indexer:reindex:specific` with 2 options `--id` and `--sku`.
