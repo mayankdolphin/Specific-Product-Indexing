@@ -1,5 +1,5 @@
 {
-    "name": "dolphin/magento2-module-SpecificProductIndexing",
+    "name": "dolphin/magento2-module-specificproductindexing",
     "description": "Reindexing Specific Products",
     "type": "magento2-module",
     "version": "1.0.0",
