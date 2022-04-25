@@ -1,4 +1,7 @@
 ## Installation
+
+If you want to install this extension using composer then make sure your composer version is **Composer 2.0**
+
 ```base
 composer require mayankdolphin/magento2-module-specificproductindexing
 ```
