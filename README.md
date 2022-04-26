@@ -37,3 +37,5 @@ php bin/magento indexer:reindex:specific --sku=24-MB01,24-MB04
 You need to add IDs/SKU by `,` seprate if you want to reindex multiple products.
 
 > This extension is not responsible for any damage. So, you can apply this at your own risk.
+
+Reference Blog: https://devhooks.in/blog/reindexing-specific-products-in-magento-2
